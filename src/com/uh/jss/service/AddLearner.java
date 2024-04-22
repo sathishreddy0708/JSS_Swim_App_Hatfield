@@ -11,7 +11,7 @@ public class AddLearner {
 		
 		Scanner sc = new Scanner(System.in);
 			int size = custInfo.size();
-			
+			 
 			System.out.println("Enter learner name:");
 			String learnerName = sc.nextLine();
 			

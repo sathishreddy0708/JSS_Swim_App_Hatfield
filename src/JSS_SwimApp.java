@@ -31,7 +31,7 @@ public class JSS_SwimApp {
 			System.out.println("**********************************************");
 			System.out.println("Hatfield Junior Swimming School ");
 			
-			// the main functionalities 
+			// the main functionalities
 			System.out.println("==============================================");
 			System.out.println("1 - Book a Swim lesson");
 			System.out.println("2 - Add a new learner");			
