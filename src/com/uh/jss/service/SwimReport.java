@@ -14,7 +14,7 @@ import com.uh.jss.util.LearnerUtil;
 public class SwimReport {
 
 	public Boolean LearnerReport(List<SwimBooking> bookingDetailsList, HashMap<String, Learner> learnerInfo, List<TimeTable> timeTableList) {
-		
+		  
 		 HashMap<String, String> learnerMap= new HashMap<>();
 		 Scanner operation = new Scanner(System.in);
 		 System.out.println("enter month  (range between: 1 to 12)"); 
