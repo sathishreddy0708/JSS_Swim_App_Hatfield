@@ -16,7 +16,7 @@ public class BookSwimLesson {
 		Scanner sc = new Scanner(System.in);
 		BookSwimLesson gs = new BookSwimLesson();
 		int gradeLevel = Integer.valueOf(learner.getCurrentGradeLevel());
-
+ 
 		
 		System.out.println("Choose option to get your timetalbe");
 		System.out.println("1 - Monday/Wednesday/Friday/Saturday\n2 - View by Grade Level\n3 - View by Coach's Name");
